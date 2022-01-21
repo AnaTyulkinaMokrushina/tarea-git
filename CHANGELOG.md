@@ -4,10 +4,14 @@ Este formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.
 
 ## [Unreleased]
 
-## [0.2.0] - <19/01/2022>
+## [0.2.0] - <19-01-2022>
 ### Added
 - Fichero CHANGELOG.md
 
 ## [0.1.0] - 2021-12-15
 ### Added
 - Ficheros Book.java y Member.java
+
+## [0.2.0] - 2022-01-21
+### Added
+- Ficheros Vehicle.java
